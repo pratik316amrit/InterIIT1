@@ -15,11 +15,8 @@ The project aims to create a strategic framework for enhancing the efficiency an
 
 ## Setup Instructions
 
-1. **Clone the Repository:**
-   ```bash
-   git clone <repository-url>
-   cd <repository-directory>
-2. **Install Required Packages**
+
+1. **Install Required Packages**
    ```bash
    pip install crewai langchain_google_genai
 
