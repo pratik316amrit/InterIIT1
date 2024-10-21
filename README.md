@@ -7,9 +7,7 @@ This project utilizes Crew AI to analyze and improve the policies of the Ministr
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Setup Instructions](#setup-instructions)
-- [Usage](#usage)
 - [Agents and Tasks](#agents-and-tasks)
-- [Results](#results)
 
 ## Project Overview
 
