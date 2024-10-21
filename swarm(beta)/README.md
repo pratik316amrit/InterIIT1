@@ -13,11 +13,8 @@ This project aims to create a personalized education system that adapts to stude
 
 ## Setup Instructions
 
-1. **Clone the Repository** (if applicable):
-   ```bash
-   git clone https://github.com/your-repo/personalized-education-system.git
-   cd personalized-education-system
-2. ***Install Dependencies***
+
+1. ***Install Dependencies***
    ```bash
    !pip -q install git+https://github.com/openai/swarm.git
 ## How It Works
